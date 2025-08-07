@@ -6,10 +6,15 @@
  */
 
 :root {
-  --primary-color: #000000;
-  --secondary-color: #333333;
-  --accent-color: #0078d4;
+  --primary-color: #4F46E5;
+  --secondary-color: #A5B4FC;
+  --accent-color: #F59E42;
   --background-color: #ffffff;
+  --note-bg: #fff;
+  --note-border: #e5e7eb;
+  --note-selected: #f3f4fa;
+  --text-main: #18181b;
+  --text-light: #6b7280;
 }
 
 html {
